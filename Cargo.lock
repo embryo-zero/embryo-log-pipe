@@ -7453,9 +7453,9 @@ checksum = "851fac73f7fe22f6a3ab87f720ce509cae7c9fd08e7dd27866cc232dee07ccf4"
 
 [[package]]
 name = "mongodb"
-version = "3.10.0"
+version = "3.10.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6466d4601ff396952e1895d88083d1ab03930b812277180eb8258bbe1a10bb0f"
+checksum = "3ea2d64bd31b98421057b171d28cf4b342d39a925fa49bc5d52dea74a1810965"
 dependencies = [
  "base64 0.22.1",
  "bitflags 2.13.2",
@@ -14106,9 +14106,9 @@ dependencies = [
 
 [[package]]
 name = "warp"
-version = "0.4.3"
+version = "0.4.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c0a808122a8a77eecdabaefd88ddb1913c4be5ea1465399f63ba64c7aa705fea"
+checksum = "c92be475cc42b6b3913eeac77f0cbc0dd8f6a1ad6400c0722dbe36ba0c3ee799"
 dependencies = [
  "bytes",
  "futures-channel",
