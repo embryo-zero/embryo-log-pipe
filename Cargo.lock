@@ -3713,9 +3713,9 @@ dependencies = [
 
 [[package]]
 name = "databricks-zerobus-ingest-sdk"
-version = "3.1.1"
+version = "3.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f04ec9f3607646b70c70fad9c99bd55910dadd141826dfdf41666d5c191ce079"
+checksum = "f8d71dc41276ed4e1811230f944d86697f2f32f1b05619b7c7f4c6aab0a64d49"
 dependencies = [
  "arrow-array 60.1.0",
  "arrow-flight 60.1.0",
